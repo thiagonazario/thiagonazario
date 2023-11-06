@@ -1,0 +1,6 @@
+- 👋 Hello, Eu sou o Thiago Nazário
+- 👀 Tenho interesse em tudo que esteja relacionado a dados
+- 🌱 Cursando Análise de Dados na Triple Ten ...
+- ✨ Proficiente em Python, Pandas, Numpy, Matplotlib, Seaborn, Looker, Tableu...
+- 💞️ Busco trabalhar com Limpeza e tratamento de dados, EDA e testes de hipóteses
+- 📫 Contato: thiagonazariosl@gmail.com
