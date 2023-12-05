@@ -1,6 +1,12 @@
-- 👋 Hello, Eu sou o Thiago Nazário
-- 👀 Tenho interesse em tudo que esteja relacionado a dados
-- 🌱 Cursando Análise de Dados na Triple Ten ...
-- ✨ Proficiente em Python, Pandas, Numpy, Matplotlib, Seaborn, Looker, Tableu...
-- 💞️ Busco trabalhar com Limpeza e tratamento de dados, EDA e testes de hipóteses
-- 📫 Contato: thiagonazariosl@gmail.com
+👋 Hello Data World!!
+☀️ Eu sou o Thiago Nazário, Analista de Dados pela Triple Ten
+💪 Habilidades:
+***Linguagens e Bibliotecas:***
+  - Python, Pandas, Numpy, Matplotlib, Seaborn, Plotly
+***Ferramentas de Visualização & Dashboards:***
+  - Looker, Tableau, Power BI
+***Análise Estatística:***
+  - Limpeza e Tratamento de Dados, Análise Exploratória, Testes de Hipóteses, Testes A/B
+💞️ Amo tudo que esteja relacionado com Dados & Números
+📫 Email: thiagonazariosl@gmail.com
+🔗 LinkedIn: linkedin.com/in/thiagonazario/
