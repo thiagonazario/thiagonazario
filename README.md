@@ -9,4 +9,4 @@
   - Limpeza e Tratamento de Dados, Análise Exploratória, Testes de Hipóteses, Testes A/B
 💞️ Amo tudo que esteja relacionado com Dados & Números
 📫 Email: thiagonazariosl@gmail.com
-🔗 LinkedIn: linkedin.com/in/thiagonazario/
+🔗 LinkedIn: [Linkedin](linkedin.com/in/thiagonazario/) 
