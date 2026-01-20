@@ -1,21 +1,21 @@
-🚀 DevOps Engineer | Tech Lead | Cloud & Kubernetes Specialist
+# Hi, I'm Thiago Nazário 👋
 
-Atualmente focado em transformar a infraestrutura através da cultura DevOps e automação. Sou um profissional em transição de carreira da Análise de Dados para o universo de SRE e Infraestrutura, com uma base sólida em Python e automação de processos. 
+## 🚀 DevOps Engineer | Tech Lead | Cloud & Infrastructure Specialist
 
-O que estou construindo:
+Currently transforming infrastructure through **DevOps culture and automation**. I am transitioning from a strong Data Analysis background to **SRE and Infrastructure**, leveraging a solid foundation in Python to automate complex environments.
 
-DevOps & Infrastructure: Aprofundando conhecimentos em Kubernetes, Docker e sistemas de automação através de formação intensiva. 
+### 🛠️ What I'm Building
+* **DevOps & Infrastructure:** Deepening expertise in **Kubernetes, Docker**, and automated scaling through intensive technical training.
+* **Tech Leadership:** Led the winning team of a **National Programming Marathon in 2024**, architecting a data project from scratch.
+* **Data-Driven DevOps (FinOps):** Leveraging 6 years of experience in financial and data analysis (Python, SQL, BI) to build **observability dashboards** and drive infrastructure decisions based on cost-efficiency and KPIs.
 
-Tech Leadership: Fui o Tech Lead da equipe campeã de uma Maratona de Programação nacional em 2024, onde liderei o desenvolvimento de um projeto de dados do zero. 
+### 🧰 Technical Skills
+* **Automation & Scripting:** Python (Pandas, Scikit-learn), Shell Scripting, SQL.
+* **Cloud & Containers:** AWS, OCI, Docker, Kubernetes (In Progress).
+* **Observability & Data:** Tableau, Power BI, Looker Studio, Prometheus (Learning).
 
-Data Driven DevOps: Trago 6 anos de experiência em análise financeira e de dados (Python, SQL, BI) para criar ambientes de monitoramento e decisões baseadas em métricas (KPIs). 
+### 🌱 About Me
+I'm passionate about solving complex puzzles and optimizing workflows. I believe technology should be a strategic enabler for business success, not just a set of tools.
 
-Skills Principais:
-
-Automação: Python (Pandas, Sklearn), SQL. 
-
-Cloud & Containers: Docker, Kubernetes (em progresso). 
-
-Data & Observability: Tableau, Power BI, Looker Studio. 
-
-Sobre mim: Apaixonado por resolver problemas complexos e otimizar fluxos de trabalho. Acredito que a tecnologia deve ser um facilitador estratégico para o sucesso do negócio.
+---
+📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/thiagonazario)
