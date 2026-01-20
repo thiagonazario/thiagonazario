@@ -1,46 +1,21 @@
-# 👋 Olá, eu sou o Thiago Nazário
+🚀 DevOps Engineer | Tech Lead | Cloud & Kubernetes Specialist
 
-### 🚀 DevOps & Cloud Engineering Aspirant | Ex-Data Analyst
+Atualmente focado em transformar a infraestrutura através da cultura DevOps e automação. Sou um profissional em transição de carreira da Análise de Dados para o universo de SRE e Infraestrutura, com uma base sólida em Python e automação de processos. 
 
-Focado na transição para o ecossistema de Infraestrutura como Código (IaC), Automação e Cloud Computing. Atualmente construindo um **Homelab Escalável** e documentando minha jornada rumo ao nível Specialist em 2026.
+O que estou construindo:
 
----
+DevOps & Infrastructure: Aprofundando conhecimentos em Kubernetes, Docker e sistemas de automação através de formação intensiva. 
 
-### 🛠️ Tech Stack & Ferramentas
+Tech Leadership: Fui o Tech Lead da equipe campeã de uma Maratona de Programação nacional em 2024, onde liderei o desenvolvimento de um projeto de dados do zero. 
 
-**Cloud & Infraestrutura (Foco Atual):**
-* **Provedores:** Oracle Cloud Infrastructure (OCI) e AWS.
-* **IaC & Automação:** Terraform & Ansible.
-* **Governança:** IAM (Identity & Access Management) e FinOps (Budgets/Alertas).
-* **Observabilidade:** Grafana & Prometheus (Stack em implementação).
-* **Sistemas:** Linux (Gestão de servidores e redes).
+Data Driven DevOps: Trago 6 anos de experiência em análise financeira e de dados (Python, SQL, BI) para criar ambientes de monitoramento e decisões baseadas em métricas (KPIs). 
 
-**Containers & Orquestração (Roadmap 2024-2025):**
-* **Docker:** Virtualização de aplicações.
-* **Kubernetes (K8s) & Helm:** Orquestração e gerenciamento de pacotes.
+Skills Principais:
 
-**Desenvolvimento & Banco de Dados:**
-* **Linguagens:** Python (Automação de tarefas e scripts).
-* **Bancos de Dados:** PostgreSQL & SQL (Consultas, Querys e Modelagem).
+Automação: Python (Pandas, Sklearn), SQL. 
 
-**Analytics & Visualization (Background):**
-* **Data Science:** Pandas, Numpy, Matplotlib, Seaborn.
-* **BI:** Tableau, Power BI, Looker.
+Cloud & Containers: Docker, Kubernetes (em progresso). 
 
----
+Data & Observability: Tableau, Power BI, Looker Studio. 
 
-### 🏗️ Projetos em Destaque (DevOps Homelab)
-
-* **OCI Infrastructure Governance:** Implementação de políticas de IAM e controle de custos via Budgets.
-* **Automated Cloud Provisioning:** Provisionamento de instâncias Always Free via Terraform.
-* **Homelab Lab-Stack:** (Em progresso) Setup de containers Docker e monitoramento com Grafana.
-
----
-
-### 📫 Conecte-se comigo:
-
-* **Email:** [thiagonazariosl@gmail.com](mailto:thiagonazariosl@gmail.com)
-* **LinkedIn:** [in/thiagonazario](https://www.linkedin.com/in/thiagonazario/)
-
----
-*"Transformando dados em insights e infraestrutura em código."*
+Sobre mim: Apaixonado por resolver problemas complexos e otimizar fluxos de trabalho. Acredito que a tecnologia deve ser um facilitador estratégico para o sucesso do negócio.
