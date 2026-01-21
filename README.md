@@ -1,21 +1,25 @@
-# Hi, I'm Thiago Nazário 👋
+Hi, I'm Thiago Nazário 👋
+🚀 DevOps Engineer | Cloud Automation & FinOps Specialist
 
-## 🚀 DevOps Engineer | Tech Lead | Cloud & Infrastructure Specialist
+Currently architecting scalable infrastructure and cost-effective cloud solutions. I specialize in building automation suites that bridge the gap between high-performance engineering and financial efficiency (FinOps).
 
-Currently transforming infrastructure through **DevOps culture and automation**. I am transitioning from a strong Data Analysis background to **SRE and Infrastructure**, leveraging a solid foundation in Python to automate complex environments.
+🛠️ Featured Cloud Products (GitHub & Upwork)
+Cloud Guardian Suite: A multi-cloud (AWS/GCP) Python engine for resource auditing, cost optimization, and security governance.
 
-### 🛠️ What I'm Building
-* **DevOps & Infrastructure:** Deepening expertise in **Kubernetes, Docker**, and automated scaling through intensive technical training.
-* **Tech Leadership:** Led the winning team of a **National Programming Marathon in 2024**, architecting a data project from scratch.
-* **Data-Driven DevOps (FinOps):** Leveraging 6 years of experience in financial and data analysis (Python, SQL, BI) to build **observability dashboards** and drive infrastructure decisions based on cost-efficiency and KPIs.
+Infrastructure as Code (IaC): Advanced cloud deployments using Pulumi and Terraform for automated environment provisioning.
 
-### 🧰 Technical Skills
-* **Automation & Scripting:** Python (Pandas, Scikit-learn), Shell Scripting, SQL.
-* **Cloud & Containers:** AWS, OCI, Docker, Kubernetes (In Progress).
-* **Observability & Data:** Tableau, Power BI, Looker Studio, Prometheus (Learning).
+CI/CD & Containers: Production-ready Docker environments and automated pipelines to accelerate software delivery.
 
-### 🌱 About Me
-I'm passionate about solving complex puzzles and optimizing workflows. I believe technology should be a strategic enabler for business success, not just a set of tools.
+🧰 Technical Skills
+Cloud Platforms: AWS, Google Cloud Platform (GCP), Oracle Cloud (OCI).
 
----
-📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/thiagonazario)
+Infrastructure & Automation: Python (Boto3/Cloud SDK), Shell Scripting, Docker, Pulumi, IaC.
+
+Monitoring & FinOps: Centralized Logging, Resource Auditing, Cost-efficiency Analysis.
+
+Tech Leadership: Led the winning team of the National Programming Marathon (2024).
+
+🌱 Professional Philosophy
+I am driven by the "Infrastructure as Code" mindset. I believe that cloud resources should be lean, secure, and fully automated. My background in complex data allows me to look at DevOps through a lens of Observability and KPI-driven decisions.
+
+📫 How to reach me: [[LinkedIn(https://www.linkedin.com/in/thiagonazario/)]] | [[Hire my Services on Upwork](https://www.upwork.com/freelancers/~01e388ca914c6969a8?mp_source=share)]
