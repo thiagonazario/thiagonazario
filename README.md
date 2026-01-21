@@ -8,13 +8,13 @@ Currently architecting scalable infrastructure and cost-effective cloud solution
 
 ### 🛠️ Featured Cloud Products (GitHub & Upwork)
 
-> **[Cloud Guardian Suite](https://github.com/seu-link-aqui)**
+> **[Cloud Guardian Suite](https://github.com/thiagonazario/cloud-guardian-audit-suite)**
 > *A multi-cloud (AWS/GCP) Python engine for resource auditing, cost optimization, and security governance.*
 
-> **[Infrastructure as Code (IaC)](https://github.com/seu-link-aqui)**
+> **[Infrastructure as Code (IaC)](https://github.com/thiagonazario/aws-finops-pulumi)**
 > *Advanced cloud deployments using Pulumi and Terraform for automated environment provisioning.*
 
-> **[CI/CD & Containers](https://github.com/seu-link-aqui)**
+> **[CI/CD & Containers](https://github.com/thiagonazario/python-docker-ci-cd-template)**
 > *Production-ready Docker environments and automated pipelines to accelerate software delivery.*
 
 ---
@@ -38,3 +38,6 @@ I am driven by the **"Infrastructure as Code"** mindset. I believe that cloud re
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagonazario/)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e388ca914c6969a8?mp_source=share)
+
+---
+#### 🏛️ [Hire my Services on Upwork](https://www.upwork.com/freelancers/~01e388ca914c6969a8?mp_source=share)
