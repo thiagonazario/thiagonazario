@@ -43,4 +43,4 @@ I operate exclusively as a **Ghost Architect**, providing strategic, asynchronou
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/6YGaKxq)
 
 ---
-#### 🏛️ [Book a Strategic Engagement via Upwork](https://www.upwork.com/freelancers/~01e388ca914c6969a8) | [Order Chaos Resilience on Fiverr Pro](https://www.fiverr.com/s/6YGaKxq)
+#### 🏛️ [Book a Strategic Engagement via Upwork](https://www.upwork.com/freelancers/~01e388ca914c6969a8) | [Order Chaos Resilience on Fiverr](https://www.fiverr.com/s/6YGaKxq)
