@@ -19,6 +19,14 @@ I architect sovereign sanctuaries for data and AI workloads. My focus is on high
 
 ---
 
+### 🖋️ **Intel & Manifesto**
+
+> **[THE GHOST ARCHITECT MANIFESTO]**
+> *Where I distill the philosophy of Engineering Silence in a world of Noise. Deep dives on Sovereign AI and Hardened Infrastructure.*
+> [Read on Medium →](https://medium.com/@thiagonazariosl)
+
+---
+
 ### 🧰 **Technical Arsenal**
 
 * **IaC & Automation:** `Pulumi (Specialist)`, `Terraform`, `Python (Advanced Boto3)`, `Shell Scripting`, `Go`
