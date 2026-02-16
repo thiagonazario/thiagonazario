@@ -24,7 +24,7 @@ I architect sovereign sanctuaries for data and AI workloads. My focus is on high
 > **[THE GHOST ARCHITECT MANIFESTO]**
 > *Where I distill the philosophy of Engineering Silence in a world of Noise. Deep dives on Sovereign AI and Hardened Infrastructure.*
 >
-> 🔗 **[Read the Manifesto on Medium](https://medium.com/@thiagonazario)**
+> 🔗 **[Read the Manifesto on Medium](https://medium.com/@thiagonazariosl)**
 ---
 
 ### 🧰 **Technical Arsenal**
